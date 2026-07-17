@@ -1,4 +1,4 @@
-# claude-skills
+# skills
 
 Personal [Agent Skills](https://agentskills.io) for [Claude Code](https://code.claude.com/docs/en/skills.md).
 
