@@ -35,8 +35,10 @@ callers before writing anything.
 
 ## 3. Write the guide
 
-- Structure and voice: follow [STYLE.md](STYLE.md) exactly — section order,
-  boxes, "Plain English:" translations, glossary, 30-second version.
+- Structure and voice: follow [STYLE.md](STYLE.md) exactly — the fixed Part
+  order (know-first concepts → intuition → the idea → the twist → the code →
+  glossary → defend-it), the signaling rules (lead lines, sticky Part nav,
+  boxes), "Plain English:" translations, and the self-check questions.
 - Start from [template.html](template.html); keep it a single self-contained
   file (inline CSS, no external requests).
 - File name: `<short-topic>-study-guide.html` (kebab-case topic).
